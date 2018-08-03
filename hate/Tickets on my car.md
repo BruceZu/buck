@@ -24,7 +24,7 @@ Ticket number: 291423554
 
 Zone: 1557
 
- ![](/home/bzu/Downloads/temp/1217848902.jpg)
+ ![](./1217848902.jpg)
 
 ### But I have paid them
 
@@ -36,7 +36,7 @@ Zone: 1557  Fri,  Jun 29, ==04:51~ 06:51 PM== .   2 hours .
 
 ### Parker History provided by the PasspaortPaking  App
 
-  ![](/home/bzu/Downloads/temp/432677786.jpg)
+  ![](./432677786.jpg)
 
 
 
@@ -54,7 +54,7 @@ I paid them by PasspaortPaking App which name is in on the meter's description
 
   ![](./839986692.jpg)
 
-![](/home/bzu/Downloads/temp/2128046197.jpg) 
+![](./2128046197.jpg) 
 
 ### An odd notice
 
@@ -62,7 +62,7 @@ But after I paid I got an notice.
 
 ![](./1482940420.jpg)
 
-![](/home/bzu/Downloads/temp/946178645.jpg)
+![](./946178645.jpg)
 
  
 
@@ -104,7 +104,7 @@ I am in San Jose, CA.
 
   
 
-#             
+#            ==I hate them, that is all==
 
 # ==Reminder you: Do not get in their trap==
 
