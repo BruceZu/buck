@@ -104,8 +104,8 @@ I am in San Jose, CA.
 
   
 
-#            ==I hate them, that is all==
+#             
 
 # ==Reminder you: Do not get in their trap==
 
- PtH+UIsx+QVOFWoRk1wQJtGa0Sw/Zp4SGiqzqDUZ+w
+ 
